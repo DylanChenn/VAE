@@ -1,6 +1,7 @@
 """
-Using keras to reproduce the mnist experiment in the paper.
-Using tensorflow backend.
+Using tensorflow to reproduce the mnist experiment in the paper.
+Author: Jiayang Chen
+Date: 02/06/2021
 """
 
 import os
